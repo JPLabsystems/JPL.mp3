@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.4,
-          "width": 1.475
+          "height": 1.0,
+          "width": 1.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -446,7 +446,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "JPL_MP3 circuitV2 - Copy.kicad_pro",
+    "filename": "JPL.mp3.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -481,10 +481,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "JPL_mp3PCBv0.1.2.a/",
+      "plot": "/home/justinas/JPL.mp3/0.1.3.a/JPL.mp3/cad/eda/gerbers0.1.3.a/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "JPL_MP3 circuitV2 - Copy.step",
+      "step": "../../../../../Downloads/JPLmp31mmboardtest.step",
       "svg": "",
       "vrml": ""
     },
