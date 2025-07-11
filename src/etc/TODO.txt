@@ -1,0 +1,12 @@
+JPL.mp3 firmware todo:
+
+BIG STUFF 
+//Fix Audio.h dependency problem (like bro wtf???)
+//- DB step wrapper (execStmt)
+//- Ready-stmt prep AND prepbind stmt
+//global argv (is there in issue here)
+//- DB + GUI
+//Fix gui stuff, is gui loop stuff an issue?
+
+small stuff
+- fix clearMenu()
