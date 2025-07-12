@@ -22,4 +22,12 @@ printf "\n"
 read -p "options: 1 = add files. selection: " selection
 if [ "$selection" -eq 1 ]; then
     printf "\n\tADDING FILE TO LIBRARY\n\n"
+
+    read -p "ENTER TRACK DIRECTORY" trackPath
+    
+    # cp "trackPath" /run/media/jusitnas/JPLMP3/library
+    # 
+    # lastFile=$(ls -t "$trackPath" | head -n 1)
+    # echo "Last file added: $lastFile"
+
 fi 
