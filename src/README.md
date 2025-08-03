@@ -7,3 +7,6 @@ libdeps: (thank you so much to all contributors)\
 	`esphome/ESP32-audioI2S @ ~2.0.7`
 
 Built in VSCode using PlatformIO extension.
+
+*I wrote this firmware before I knew how to code.*  
+As such, `main.cpp` is monolithic and contains all control logic, making calls to funcitons defined in each respective header file. It's hard to debug and very glitchy (sorry!)...
